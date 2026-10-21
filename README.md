@@ -4,7 +4,7 @@
 
 <img src="hands-banner.png" width="100%" alt="Monochrome hands reaching toward each other" />
 
-# Olá 👋, sou o Matheus
+# Olá, sou o Matheus
 
 ### Desenvolvedor Backend
 
