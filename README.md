@@ -29,11 +29,11 @@
 
 ## Contatos
 
-<a href="https://github.com/SEU-USUARIO"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
+<a href="https://github.com/devvalvess"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>
+<!-- (Quando tiver Linked pronto e email profissional) <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:SEU-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a>
+<a href="mailto:SEU-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a> -->
 
 ---
 
