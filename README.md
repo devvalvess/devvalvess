@@ -43,13 +43,6 @@
 
 ---
 
-## Estatísticas do GitHub
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=c9d1d9&icon_color=8b949e" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=c9d1d9" alt="Linguagens mais utilizadas" />
-
----
-
 ## Gráfico de atividade
 
 <br clear="both">
