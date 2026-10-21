@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Bem-Vindo,+ao+meu+Perfil!++=])](https://git.io/typing-svg)
+
 <div align="center">
 
 <img src="hands-banner.png" width="100%" alt="Monochrome hands reaching toward each other" />
