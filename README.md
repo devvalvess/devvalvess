@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="hand-banner.png" width="100%" alt="Monochrome hands reaching toward each other" />
+<img src="hands-banner.png" width="100%" alt="Monochrome hands reaching toward each other" />
 
 # Olá, sou o Matheus
 
