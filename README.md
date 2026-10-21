@@ -2,7 +2,7 @@
 
 <img src="hands-banner.png" width="100%" alt="Monochrome hands reaching toward each other" />
 
-# Olá 👋, sou o Shady
+# Olá 👋, sou o Matheus
 
 ### Desenvolvedor Backend
 
@@ -16,7 +16,7 @@
 
 <img align="right" width="220" src="pixel-art.png" alt="Pixel-art illustration" />
 
-**Shady** aqui — um desenvolvedor focado em aprender, criar projetos e evoluir na prática.
+**Matheus** aqui — um desenvolvedor focado em aprender, criar projetos e evoluir na prática.
 
 - 💻 Trabalhando com **JavaScript, Java, HTML e CSS**
 - 🧠 Interessado em desenvolvimento backend e resolução de problemas
