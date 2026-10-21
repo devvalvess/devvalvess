@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Bem-Vindo,+ao+meu+Perfil!++=])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -7,8 +7,6 @@
 # Olá 👋, sou o Matheus
 
 ### Desenvolvedor Backend
-
-`Só código, mano`
 
 <p>Desenvolvendo sistemas backend confiáveis, com arquitetura limpa e soluções escaláveis.</p>
 
@@ -54,7 +52,14 @@
 
 ## Gráfico de atividade
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=c9d1d9&line=6e9ed6&point=f4f4f5&area=true&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub" />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 
