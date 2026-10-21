@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hands-banner.png" width="100%" alt="Monochrome hands reaching toward each other" />
+<img src="hands-banner.png" width="100%" alt="Monochrome hands reaching toward each other" />
 
 # Olá 👋, sou o Shady
 
@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-<img align="right" width="220" src="./assets/pixel-art.png" alt="Pixel-art illustration" />
+<img align="right" width="220" src="pixel-art.png" alt="Pixel-art illustration" />
 
 **Shady** aqui — um desenvolvedor focado em aprender, criar projetos e evoluir na prática.
 
