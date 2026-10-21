@@ -18,10 +18,10 @@
 
 **Matheus** aqui — um desenvolvedor focado em aprender, criar projetos e evoluir na prática.
 
-- 💻 Estudo **JavaScript, Java, HTML e CSS**
-- 🧠 Interessado em desenvolvimento backend/ front-end e resolução de problemas
-- 🛠️ Aprendendo ao desenvolver projetos e melhorar meu código
-- 🎯 Objetivo: criar softwares confiáveis e continuar evoluindo como desenvolvedor
+-  Estudo **JavaScript, Java, HTML e CSS**
+-  Interessado em desenvolvimento backend / front-end e resolução de problemas
+-  Aprendendo ao desenvolver projetos e melhorar meu código
+-  Objetivo: criar softwares confiáveis e continuar evoluindo como desenvolvedor
 
 <br clear="right"/>
 
